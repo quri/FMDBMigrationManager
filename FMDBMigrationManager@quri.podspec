@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'FMDBMigrationManager'
+  s.name     = 'FMDBMigrationManager@quri'
   s.version  = '1.3.4'
   s.license  = 'Apache2'
   s.summary  = 'A SQLite database schema migration system for FMDB'
